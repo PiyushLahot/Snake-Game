@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# PyCharm settings
+.idea/
+
+# Virtual environment
+.venv/
+
+# Personal highscore
+data.txt
